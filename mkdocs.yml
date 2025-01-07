@@ -1,4 +1,2 @@
 site_name: My Docs
-nav:
-  - Home: index.md
-  - Public1: public_1.md
+theme: material
