@@ -2,12 +2,3 @@ site_name: My Docs
 nav:
   - Home: index.md
   - Public1: public_1.md
-theme:
-  name: material
-plugins:
-  - multirepo:
-      cleanup: true
-      keep_docs_dir: true
-      repos:
-        - section: Public Docs
-          import_url
